@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.17.0" title="Shotcut version 19.10.20" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:00:19.960">
+    <property name="length">500</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple in Restaurant.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2017-04-01T17:00:41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d2494e57681aa60810c7eb1f1f568926</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:00:27.440">
+    <property name="length">687</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple Relaxing Near The Lake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2017-02-19T00:05:27</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c914abc796ddb848af32780ea09c747f</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:20.440">
+    <property name="length">512</property>
+    <property name="eof">pause</property>
+    <property name="resource">People at campfire.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-07-18T01:40:49</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3c3de906637601ea3a91b3e3d9a2f975</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:00:30.120">
+    <property name="length">754</property>
+    <property name="eof">pause</property>
+    <property name="resource">Snowy River.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-04-11T01:50:19</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ee2a1e9098e023e995dac88a6642082b</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.400">
+    <property name="length">711</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple in Snow.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-10-28T09:22:51</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bb0c419f660f6d6589177dfe1161b876</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.720">
+    <property name="length">344</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video Footage Of Wedding Preparation.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2016-10-30T08:52:23</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4542510160e089c801472be0fa9e10ac</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.880">
+    <property name="length">123</property>
+    <property name="eof">pause</property>
+    <property name="resource">Engaged Couple Holding Hands.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2016-08-25T14:18:04</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3db94c1b7ffe1984b184b9e0d80a89e5</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.400">
+    <property name="length">2636</property>
+    <property name="eof">pause</property>
+    <property name="resource">Podington_Bear_-_Starling.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-11-18T23:46:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">972c1c5887939a24529ab38a9f7ba655</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 19.10.20">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:19.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:27.440"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:20.440"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:30.120"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:28.400"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:13.720"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:04.880"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:01:45.400"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:01:25.520">
+    <property name="length">00:01:25.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:01:25.520"/>
+  </playlist>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:00:19.960">
+    <property name="length">500</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple in Restaurant.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2017-04-01T17:00:41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d2494e57681aa60810c7eb1f1f568926</property>
+    <property name="shotcut:caption">Couple in Restaurant.mp4</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:00:27.440">
+    <property name="length">687</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple Relaxing Near The Lake.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2017-02-19T00:05:27</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c914abc796ddb848af32780ea09c747f</property>
+    <property name="shotcut:caption">Couple Relaxing Near The Lake.mp4</property>
+    <filter id="filter0" out="00:00:12.080">
+      <property name="start">1</property>
+      <property name="level">00:00:11.640=1;00:00:12.080=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.480</property>
+    </filter>
+    <filter id="filter1" in="00:00:01.320" out="00:00:12.080">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:10.320=0;00:00:10.760=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">12</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:01.280">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer8" in="00:00:12.560" out="00:00:13.840"/>
+    <track producer="producer9" in="00:00:00.000" out="00:00:01.280"/>
+    <transition id="transition0" out="00:00:01.280">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:01.280">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:00:20.440">
+    <property name="length">512</property>
+    <property name="eof">pause</property>
+    <property name="resource">People at campfire.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-07-18T01:40:49</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3c3de906637601ea3a91b3e3d9a2f975</property>
+    <property name="shotcut:caption">People at campfire.mp4</property>
+    <filter id="filter2" out="00:00:19.400">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.640=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.680</property>
+    </filter>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="00:00:30.120">
+    <property name="length">754</property>
+    <property name="eof">pause</property>
+    <property name="resource">Snowy River.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-04-11T01:50:19</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ee2a1e9098e023e995dac88a6642082b</property>
+    <property name="shotcut:caption">Snowy River.mp4</property>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00.000" out="00:00:00.800">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer10" in="00:00:18.600" out="00:00:19.400"/>
+    <track producer="producer11" in="00:00:00.000" out="00:00:00.800"/>
+    <transition id="transition2" out="00:00:00.800">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.800">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.400">
+    <property name="length">711</property>
+    <property name="eof">pause</property>
+    <property name="resource">Couple in Snow.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-10-28T09:22:51</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bb0c419f660f6d6589177dfe1161b876</property>
+    <property name="shotcut:caption">Couple in Snow.mp4</property>
+    <filter id="filter3" out="00:00:07.040">
+      <property name="start">1</property>
+      <property name="level">00:00:06.120=1;00:00:07.040=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.960</property>
+    </filter>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="00:00:17.160">
+    <property name="length">00:00:17.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.8:Video Footage Of Wedding Preparation.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">0.8</property>
+    <property name="warp_resource">Video Footage Of Wedding Preparation.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">4542510160e089c801472be0fa9e10ac</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Video Footage Of Wedding Preparation.mp4 (0.8x)</property>
+    <filter id="filter4" out="00:00:13.720">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="00:00:27.480">
+    <property name="length">00:00:27.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.5:Video Footage Of Wedding Preparation.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">0.5</property>
+    <property name="warp_resource">Video Footage Of Wedding Preparation.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">4542510160e089c801472be0fa9e10ac</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Video Footage Of Wedding Preparation.mp4 (0.5x)</property>
+    <filter id="filter5" in="00:00:22.000" out="00:00:26.560">
+      <property name="start">1</property>
+      <property name="level">00:00:04.000=1;00:00:04.560=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:00.600</property>
+    </filter>
+  </producer>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="00:00:16.320">
+    <property name="length">00:00:16.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.3:Engaged Couple Holding Hands.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">0.3</property>
+    <property name="warp_resource">Engaged Couple Holding Hands.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">3db94c1b7ffe1984b184b9e0d80a89e5</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Engaged Couple Holding Hands.mp4 (0.3x)</property>
+    <filter id="filter6" in="00:00:09.560" out="00:00:16.200">
+      <property name="start">1</property>
+      <property name="level">00:00:05.080=1;00:00:06.640=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.600</property>
+    </filter>
+    <filter id="filter7" in="00:00:09.560" out="00:00:16.200">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.920=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:00.960</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:12.520"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:01.280"/>
+    <entry producer="producer9" in="00:00:01.320" out="00:00:12.080"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:18.560"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.800"/>
+    <entry producer="producer11" in="00:00:00.840" out="00:00:09.680"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:07.040"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:13.720"/>
+    <entry producer="producer14" in="00:00:22.000" out="00:00:26.560"/>
+    <blank length="00:00:00.440"/>
+    <entry producer="producer15" in="00:00:09.560" out="00:00:16.200"/>
+  </playlist>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.400">
+    <property name="length">2636</property>
+    <property name="eof">pause</property>
+    <property name="resource">Podington_Bear_-_Starling.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-11-18T23:46:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">972c1c5887939a24529ab38a9f7ba655</property>
+    <property name="shotcut:caption">Podington_Bear_-_Starling.mp3</property>
+    <filter id="filter8" in="00:00:20.000" out="00:01:45.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-29.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer16" in="00:00:20.000" out="00:01:45.400"/>
+  </playlist>
+  <tractor id="tractor3" title="Shotcut version 19.10.20" global_feed="1" in="00:00:00.000" out="00:01:25.520">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">1.06171</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="audio"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
